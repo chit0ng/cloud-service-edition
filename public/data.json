@@ -1,0 +1,21 @@
+{
+  "status": 0,
+  "data": {
+    "title": "monitor",
+    "description": "Display the monitoring status of all servers under the current load balancing.",
+    "list": [
+      {
+        "servername": "cloud computer 1",
+        "ipaddress": "118.150.3.23",
+        "status": "normal",
+        "provider": "AliCloud"
+      },
+      {
+        "servername": "cloud computer 2",
+        "ipaddress": "118.150.3.34",
+        "status": "normal",
+        "provider": "AliCloud"
+      }
+    ]
+  }
+}

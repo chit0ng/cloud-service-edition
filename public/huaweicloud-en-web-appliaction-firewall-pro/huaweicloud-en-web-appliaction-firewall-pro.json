@@ -1,0 +1,24 @@
+{
+  "status": 0,
+  "data": {
+    "title": "Service Information",
+    "description": "Description of the cloud waf service, including the current service version, region, price, and function description.",
+    "list": [
+      {
+        "name": "Web Application Firewall",
+        "region": "HongKong",
+        "edition": "Standard (formerly Professional edition)",
+        "price": {
+          "month": "$12,000",
+          "year": "$22,000"
+        },
+        "features": "10 domain names can be protected (number of top-level domain names: 1) \r Service bandwidth: 100 Mbit/s (for web applications on HUAWEI CLOUD) 30 Mbit/s (for web applications outside HUAWEI CLOUD) \\/ 2,000 QPS of service requests 6,000 WAF-to-server connections per domain",
+        "wiki": {
+          "english": "https://docs.snapano.com/product-knowledge-base/security/web-appliaction-firewall",
+          "chinese": "https://docs.snapano.cn/cloud-services/cloud-ecs"
+        },
+        "provider": "HuaweiCloud"
+      }
+    ]
+  }
+}
